@@ -64,4 +64,8 @@ h2 {
             text-align: right;
         }
 
+  .scaled-image {
+            width: 300px; /* Adjust the width to scale the image */
+            height: auto; /* Maintain the aspect ratio */
+        }
 /* Customize styling further as needed */
