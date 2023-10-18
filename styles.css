@@ -51,5 +51,17 @@ h2 {
     margin-right: 5px; /* Adjust spacing between bullet and text */
 }
 
+ .container {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .left {
+            text-align: left;
+        }
+
+        .right {
+            text-align: right;
+        }
 
 /* Customize styling further as needed */
