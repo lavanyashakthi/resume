@@ -45,9 +45,9 @@ h2 {
 }
 
 .custom-bullet li:before {
-    content: "•"; /* You can customize this to any symbol or text you want */
+    content: "*"; /* You can customize this to any symbol or text you want */
     color: #007acc; /* Customize the color */
-    font-size: 18px; /* Customize the font size */
+    font-size: 26px; /* Customize the font size */
     margin-right: 5px; /* Adjust spacing between bullet and text */
 }
 
