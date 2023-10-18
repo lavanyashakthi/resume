@@ -39,4 +39,17 @@ h2 {
     color: #007acc;
 }
 
+.custom-bullet {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+.custom-bullet li:before {
+    content: "•"; /* You can customize this to any symbol or text you want */
+    color: #007acc; /* Customize the color */
+    font-size: 18px; /* Customize the font size */
+    margin-right: 5px; /* Adjust spacing between bullet and text */
+}
+
+
 /* Customize styling further as needed */
